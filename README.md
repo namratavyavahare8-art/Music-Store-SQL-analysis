@@ -1,4 +1,4 @@
-                  <u>**MUSIC STORE SQL ANALYSIS**</u>
+                  
 
 ## PROJECT OVERVIEW
 
