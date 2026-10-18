@@ -1,4 +1,4 @@
-    
+                  <u>**MUSIC STORE SQL ANALYSIS**</u>
 
 ## PROJECT OVERVIEW
 
@@ -93,8 +93,3 @@ The results are ordered from highest to lowest revenue.
 ## CONCLUSION
 
 This project demonstrates how SQL can be used to answer practical business questions from a relational music-store database. The analysis covers customer behavior, invoice distribution, catalog structure, employee hierarchy, and artist revenue.
-
-
-##  Entity–Relationship Diagram (ERD) of the Music Store Database
-<img width="1266" height="836" alt="sql_project" src="https://github.com/user-attachments/assets/f4d02936-9853-49bb-bfd4-4872bb328b51" />
-
